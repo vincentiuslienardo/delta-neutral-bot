@@ -1,0 +1,19 @@
+# Operating System
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python
+__pycache__/
+*.py[oc]
+.venv/
+.env
+*.egg-info/
+dist/
+build/
+wheels/
